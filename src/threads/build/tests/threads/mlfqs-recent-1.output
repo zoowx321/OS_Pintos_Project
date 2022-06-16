@@ -1,0 +1,7 @@
+Writing command line to /tmp/jl2HQJzGby.dsk...
+warning: can't find squish-pty, so terminal input will fail
+bochs -q
+========================================================================
+                       Bochs x86 Emulator 2.4.5
+              Build from CVS snapshot, on April 25, 2010
+========================================================================
