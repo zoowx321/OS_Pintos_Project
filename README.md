@@ -6,6 +6,10 @@ ubuntu id : pintos pw : pintos
 
 <PintOS - scheduler 구현>
 
+2016 operating system class pintos project
+
+
+
 - Sleep-awake 방식으로 alrm-clock 구현
 
 - priority scheduling 구현
